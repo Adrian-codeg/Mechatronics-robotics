@@ -15,6 +15,7 @@ Communicating between them through a serial communication.
 Adding some other addtionally features for more points.
 
 Result:
+
 <img width="248" alt="image" src="https://github.com/user-attachments/assets/c44212d2-acf6-422e-8108-8b082c0af7b4" />
 
 

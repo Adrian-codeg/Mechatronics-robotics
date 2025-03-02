@@ -23,7 +23,7 @@ Result:
 
 
 Note:
-The CAD design was done on Fusion360: https://github.com/Adrian-codeg/Mechatronics-robotics/blob/main/Mechatronics%20designs%20group%202.zip
+The CAD design was done on Fusion360: [https://github.com/Adrian-codeg/Mechatronics-robotics/blob/main/Mechatronics%20designs%20group%202.zip](https://grabcad.com/library/mechatronics-robotics-1)
 
 Link for final result: https://www.youtube.com/watch?v=gOB_Nq9NREc
 Code for arduino: https://github.com/Adrian-codeg/Mechatronics-robotics/tree/main/planB_v4

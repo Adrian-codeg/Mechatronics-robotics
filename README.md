@@ -24,4 +24,7 @@ Result:
 
 Note:
 The CAD design was done on Fusion360
+Link for final result <img width="248" alt="image" src="https://github.com/user-attachments/assets/623246f3-3aec-43ee-87e6-f5c905131471" />
+https://www.youtube.com/watch?v=gOB_Nq9NREc
+
 

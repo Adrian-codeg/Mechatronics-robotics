@@ -22,9 +22,13 @@ Result:
 <img width="2551" height="1308" alt="Screenshot 2025-09-13 221341" src="https://github.com/user-attachments/assets/161b9039-93b2-4209-9417-187f19fcd6bd" />
 
 
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/25d73e3a-6471-43d4-a900-e2961fc6fcb6)
 
 Note:
 The CAD design was done on Fusion360: [https://github.com/Adrian-codeg/Mechatronics-robotics/blob/main/Mechatronics%20designs%20group%202.zip](https://grabcad.com/library/mechatronics-robotics-1)
+
+
+
 
 Link for final result: https://www.youtube.com/watch?v=gOB_Nq9NREc
 Code for arduino: https://github.com/Adrian-codeg/Mechatronics-robotics/tree/main/planB_v4
